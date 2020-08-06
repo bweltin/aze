@@ -1,0 +1,7 @@
+{
+  "name": "arbeitszeitenerfassung",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
